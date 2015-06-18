@@ -1,0 +1,28 @@
+{
+  "name": "quiet-library",
+  "main": ["_quiet-library.scss"],
+  "version": "0.0.0",
+  "homepage": "https://github.com/nichoth/quiet-library",
+  "authors": [
+    "nichoth <nichoth@gmail.com>"
+  ],
+  "description": "Collection of Sass silent classes and mixins",
+  "keywords": [
+    "sass",
+    "quiet",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "q-letter-shading": "~0.0.1",
+    "q-shadow-button": "~0.0.3",
+    "q-lists": "~0.0.0"
+  }
+}
